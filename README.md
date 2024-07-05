@@ -32,8 +32,8 @@
  - USB cable
 
   #### ii.Hardware connectins
- - VCC of Temperature sensor to 3.3V of NodeMCU
- - Gnd of Temperature sensor to GND of NodeMCU
+ - VCC of DHT11 sensor to 3.3V of NodeMCU
+ - Gnd of DHT11 sensor to GND of NodeMCU
  - Connect Data pins of DHT11 sensor to digital pins on NodeMCU
  - connect the NodeMCU to computrer thruough usb cable
 
