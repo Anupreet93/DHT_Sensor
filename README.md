@@ -74,6 +74,7 @@
 
 
  ## Circuit Diagram
+ ![Circuit Diagram](./Image/DHT_Sensor.jpg)
 
 
 
