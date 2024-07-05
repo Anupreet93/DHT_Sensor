@@ -66,11 +66,14 @@
 
 
 
-#### Debug & compile the code
+#### iv.Debug & Compile the Code
    - Dump the code in Node MCU
    - open the serial monitor to see the result
    - wait untill the the nodeMCU connects to the wifi
 
+     
+#### v.OUTPUT
+- See output  on ThingSpeak channel feild
 
  ## Circuit Diagram
  ![Circuit Diagram](./Image/DHT_Sensor.jpg)
