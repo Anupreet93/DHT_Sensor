@@ -7,7 +7,7 @@
 - 3.[Project Flow](#project-flow)
 - 4.[Circuit Diagram](#circuit-diagram)
 - 5.[Summary](#summary)
-- 
+  
 
 
 
@@ -67,7 +67,7 @@
 
 
 
-- Debug & compile the code
+  - Debug & compile the code
    - Dump the code in Node MCU
    - open the serial monitor to see the result
    - wait untill the the nodeMCU connects to the wifi
