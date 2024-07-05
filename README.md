@@ -74,6 +74,7 @@
      
 #### v.OUTPUT
 - See output  on ThingSpeak channel feild
+- https://api.thingspeak.com/channels/2588969/feeds.json?results=2
 
  ## Circuit Diagram
  ![Circuit Diagram](./Image/DHT_Sensor.jpg)
